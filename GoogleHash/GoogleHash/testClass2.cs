@@ -8,5 +8,7 @@ namespace GoogleHash
 {
     class testClass2
     {
+        int i;
+        int j = 20;
     }
 }
